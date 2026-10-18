@@ -1,0 +1,23 @@
+--- a/flatpak/org.subtitld.Subtitld.appdata.xml
++++ b/flatpak/org.subtitld.Subtitld.appdata.xml
+@@ -38,6 +38,20 @@
+   </screenshots>
+   <content_rating type="oars-1.1" />
+   <releases>
++    <release version="26.10.18.0124" date="2026-10-17">
++      <url type="details">https://subtitld.org/releases/26-10</url>
++      <description>
++        <ul>
++          <li>Dubbing: a synthetic voice for each speaker, fitted to the subtitles</li>
++          <li>Add-ons for speech recognition, translation, voices and audio separation</li>
++          <li>Record mode: each phrase becomes a subtitle as you speak</li>
++          <li>An audio mixer with EQ, compressor and gate for each track</li>
++          <li>subtitld.cc: find, open, rate and publish subtitles</li>
++          <li>A vertical timeline, a plain-text view and 17 interface languages</li>
++          <li>New formats: EBU STL, MCC, CEA-708, YouTube timed text and speech-to-text JSON</li>
++        </ul>
++      </description>
++    </release>
+     <release version="26.03.0.0" date="2026-03-01" />
+   </releases>
+ </component>
